@@ -1,1 +1,1 @@
-Sleep detection system to prevent algorithm
+Sleep detection system to prevent accidents due to sleep
